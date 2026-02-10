@@ -1,4 +1,4 @@
 version: STSv1
 mode: enforce
-mx: mail.finance.bayern
+mx: mail.msz-tools.de
 max_age: 86400
